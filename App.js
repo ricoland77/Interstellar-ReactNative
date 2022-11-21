@@ -8,7 +8,7 @@ import {
   Platform,
   SafeAreaView,
   ScrollView,
-  StyleSheet,
+  // StyleSheet,
   Text,
   View,
   Image,

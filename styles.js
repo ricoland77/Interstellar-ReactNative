@@ -51,7 +51,6 @@ export default {
   textPitch: {
     color: "white",
     marginLeft: 15,
-    width: 275,
   },
 
   watchList: {
@@ -60,6 +59,7 @@ export default {
     padding: 10,
     marginLeft: 15,
     marginTop: 10,
+    marginRight: 90,
     borderRadius: 5,
   },
 
